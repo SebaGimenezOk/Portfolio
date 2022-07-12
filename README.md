@@ -6,6 +6,7 @@
 
 - 🌍 I'm from BsAs, Argentina.
 - 🧠  I'm learning **React** and **NodeJS**
+-       soon back-end dev
 ## Technologies and tools
 ### Front-end technologies
 <div>
@@ -16,4 +17,6 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </div>
 
-
+<div>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</div>
